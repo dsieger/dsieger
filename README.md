@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi, I'm Daniel
 
 I'm a computer scientist and software engineer specializing in geometry processing and computer graphics.
 
-I'm currently working on the [Polygon Mesh Processing Library](https://www.pmp-library.org), see the [GitHub repository](https://github.com/pmp-library/pmp-library/).
+I'm developing the [Polygon Mesh Processing Library](https://www.pmp-library.org), see the [repository](https://github.com/pmp-library/pmp-library/).
 
-See my [personal website](https://www.danielsieger.com) for more details.
+See my [personal website](https://www.danielsieger.com) for more information about me.
 
 <!--
 **dsieger/dsieger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
