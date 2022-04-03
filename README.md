@@ -4,7 +4,7 @@ I'm a computer scientist and software engineer specializing in geometry processi
 
 I'm developing the [Polygon Mesh Processing Library](https://www.pmp-library.org), see the [repository](https://github.com/pmp-library/pmp-library/).
 
-See my [personal website](https://www.danielsieger.com) for more information about me.
+See [danielsieger.com](https://www.danielsieger.com) for more information.
 
 <!--
 **dsieger/dsieger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
